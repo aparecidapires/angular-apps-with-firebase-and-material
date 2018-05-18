@@ -1,3 +1,9 @@
+# angular-apps-with-firebase-and-material
+
+Build Angular apps with Firebase and Angular Material by Flavio Oliveira at Udemy
+
+https://www.udemy.com/angular-5-and-firebase-the-must-have-features-for-your-app/
+
 # NgFire
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
