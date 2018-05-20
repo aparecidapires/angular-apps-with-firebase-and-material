@@ -1,0 +1,11 @@
+.user-title {
+    margin-left: 1em;
+}
+ul {
+    list-style: none;
+}
+
+mat-card {
+    margin: 10px;
+    width: 300px;
+}
